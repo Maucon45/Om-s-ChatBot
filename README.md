@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Attractive Advanced Portfolio Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        h1 {
-            font-size: 2.5rem;
-        }
-        h2 {
-            font-size: 2rem;
-            color: #555;
-        }
-        h3 {
-            font-size: 1.5rem;
-        }
-        a {
-            color: #1d72b8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        .features li:before {
-            content: '✨';
-            margin-right: 10px;
-        }
-        .social-links li {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
+
 <body>
 
     <h1>💼 Attractive Advanced Portfolio Website</h1>
@@ -94,4 +45,3 @@
     <p><strong>Free Software, Hell Yeah! 😎</strong></p>
 
 </body>
-</html>
